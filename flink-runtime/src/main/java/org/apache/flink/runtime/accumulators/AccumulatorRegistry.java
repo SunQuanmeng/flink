@@ -27,6 +27,7 @@ import org.slf4j.LoggerFactory;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
+// Test
 
 /** Main accumulator registry which encapsulates user-defined accumulators. */
 public class AccumulatorRegistry {

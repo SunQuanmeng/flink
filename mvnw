@@ -35,7 +35,8 @@
 # ----------------------------------------------------------------------------
 
 if [ -z "$MAVEN_SKIP_RC" ] ; then
-
+JAVA_HOME=/Users/kturnura/Packages/jdk8-zulu
+M2_HOME=/Users/kturnura/Packages/maven3
   if [ -f /usr/local/etc/mavenrc ] ; then
     . /usr/local/etc/mavenrc
   fi
